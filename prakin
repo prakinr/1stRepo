@@ -1,0 +1,7 @@
+166  git clone https://github.com/prakinr/1stRepo.git
+  167  ls 
+  168  ls -l 
+  169  cd 1stRepo/
+  170  ls 
+  171  touch prakin
+  172  history 
